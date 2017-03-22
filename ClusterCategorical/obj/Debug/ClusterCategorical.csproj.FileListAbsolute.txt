@@ -1,0 +1,12 @@
+D:\MachineLearningSuccinctly\ClusterCategorical\bin\Debug\ClusterCategorical.exe.config
+D:\MachineLearningSuccinctly\ClusterCategorical\bin\Debug\ClusterCategorical.exe
+D:\MachineLearningSuccinctly\ClusterCategorical\bin\Debug\ClusterCategorical.pdb
+D:\MachineLearningSuccinctly\ClusterCategorical\obj\Debug\ClusterCategorical.csprojResolveAssemblyReference.cache
+D:\MachineLearningSuccinctly\ClusterCategorical\obj\Debug\ClusterCategorical.exe
+D:\MachineLearningSuccinctly\ClusterCategorical\obj\Debug\ClusterCategorical.pdb
+D:\大行简道\试验\MachineLearningSuccinctly\ClusterCategorical\bin\Debug\ClusterCategorical.exe.config
+D:\大行简道\试验\MachineLearningSuccinctly\ClusterCategorical\bin\Debug\ClusterCategorical.exe
+D:\大行简道\试验\MachineLearningSuccinctly\ClusterCategorical\bin\Debug\ClusterCategorical.pdb
+D:\大行简道\试验\MachineLearningSuccinctly\ClusterCategorical\obj\Debug\ClusterCategorical.csprojResolveAssemblyReference.cache
+D:\大行简道\试验\MachineLearningSuccinctly\ClusterCategorical\obj\Debug\ClusterCategorical.exe
+D:\大行简道\试验\MachineLearningSuccinctly\ClusterCategorical\obj\Debug\ClusterCategorical.pdb

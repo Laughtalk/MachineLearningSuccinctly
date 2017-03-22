@@ -1,0 +1,12 @@
+D:\MachineLearningSuccinctly\NaiveBayes\bin\Debug\NaiveBayes.exe.config
+D:\MachineLearningSuccinctly\NaiveBayes\bin\Debug\NaiveBayes.exe
+D:\MachineLearningSuccinctly\NaiveBayes\bin\Debug\NaiveBayes.pdb
+D:\MachineLearningSuccinctly\NaiveBayes\obj\Debug\NaiveBayes.csprojResolveAssemblyReference.cache
+D:\MachineLearningSuccinctly\NaiveBayes\obj\Debug\NaiveBayes.exe
+D:\MachineLearningSuccinctly\NaiveBayes\obj\Debug\NaiveBayes.pdb
+D:\大行简道\试验\MachineLearningSuccinctly\NaiveBayes\bin\Debug\NaiveBayes.exe.config
+D:\大行简道\试验\MachineLearningSuccinctly\NaiveBayes\bin\Debug\NaiveBayes.exe
+D:\大行简道\试验\MachineLearningSuccinctly\NaiveBayes\bin\Debug\NaiveBayes.pdb
+D:\大行简道\试验\MachineLearningSuccinctly\NaiveBayes\obj\Debug\NaiveBayes.csprojResolveAssemblyReference.cache
+D:\大行简道\试验\MachineLearningSuccinctly\NaiveBayes\obj\Debug\NaiveBayes.exe
+D:\大行简道\试验\MachineLearningSuccinctly\NaiveBayes\obj\Debug\NaiveBayes.pdb

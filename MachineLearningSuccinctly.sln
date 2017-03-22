@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClusterNumeric", "ClusterNumeric\ClusterNumeric.csproj", "{A4F5ACC6-1A4C-40E5-8F0C-6C66009B611B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClusterCategorical", "ClusterCategorical\ClusterCategorical.csproj", "{DB6B45BF-504A-4B4E-94C8-D6AB94644753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogisticRegression", "LogisticRegression\LogisticRegression.csproj", "{79592E03-215C-47B2-8E2F-2924B05340F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaiveBayes", "NaiveBayes\NaiveBayes.csproj", "{15582BC7-5A9B-4B50-BD54-A9ABA75D9CA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralClassification", "NeuralClassification\NeuralClassification.csproj", "{494CA39A-931E-4B11-88E0-A1459437EF34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RBFNetwork", "RBFNetwork\RBFNetwork.csproj", "{ABD3F996-EE54-47F1-AC87-64F104CA1A91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossEntropyDemo", "CrossEntropyDemo\CrossEntropyDemo.csproj", "{7B198B0E-DBC5-485F-961C-6B2313257049}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4F5ACC6-1A4C-40E5-8F0C-6C66009B611B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4F5ACC6-1A4C-40E5-8F0C-6C66009B611B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4F5ACC6-1A4C-40E5-8F0C-6C66009B611B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4F5ACC6-1A4C-40E5-8F0C-6C66009B611B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB6B45BF-504A-4B4E-94C8-D6AB94644753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6B45BF-504A-4B4E-94C8-D6AB94644753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6B45BF-504A-4B4E-94C8-D6AB94644753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6B45BF-504A-4B4E-94C8-D6AB94644753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79592E03-215C-47B2-8E2F-2924B05340F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79592E03-215C-47B2-8E2F-2924B05340F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79592E03-215C-47B2-8E2F-2924B05340F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79592E03-215C-47B2-8E2F-2924B05340F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15582BC7-5A9B-4B50-BD54-A9ABA75D9CA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15582BC7-5A9B-4B50-BD54-A9ABA75D9CA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15582BC7-5A9B-4B50-BD54-A9ABA75D9CA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15582BC7-5A9B-4B50-BD54-A9ABA75D9CA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{494CA39A-931E-4B11-88E0-A1459437EF34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494CA39A-931E-4B11-88E0-A1459437EF34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494CA39A-931E-4B11-88E0-A1459437EF34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494CA39A-931E-4B11-88E0-A1459437EF34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD3F996-EE54-47F1-AC87-64F104CA1A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD3F996-EE54-47F1-AC87-64F104CA1A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD3F996-EE54-47F1-AC87-64F104CA1A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD3F996-EE54-47F1-AC87-64F104CA1A91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B198B0E-DBC5-485F-961C-6B2313257049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B198B0E-DBC5-485F-961C-6B2313257049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B198B0E-DBC5-485F-961C-6B2313257049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B198B0E-DBC5-485F-961C-6B2313257049}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

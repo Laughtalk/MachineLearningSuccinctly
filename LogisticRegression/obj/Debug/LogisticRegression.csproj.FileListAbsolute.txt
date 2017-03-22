@@ -1,0 +1,12 @@
+D:\MachineLearningSuccinctly\LogisticRegression\bin\Debug\LogisticRegression.exe.config
+D:\MachineLearningSuccinctly\LogisticRegression\bin\Debug\LogisticRegression.exe
+D:\MachineLearningSuccinctly\LogisticRegression\bin\Debug\LogisticRegression.pdb
+D:\MachineLearningSuccinctly\LogisticRegression\obj\Debug\LogisticRegression.csprojResolveAssemblyReference.cache
+D:\MachineLearningSuccinctly\LogisticRegression\obj\Debug\LogisticRegression.exe
+D:\MachineLearningSuccinctly\LogisticRegression\obj\Debug\LogisticRegression.pdb
+D:\大行简道\试验\MachineLearningSuccinctly\LogisticRegression\bin\Debug\LogisticRegression.exe.config
+D:\大行简道\试验\MachineLearningSuccinctly\LogisticRegression\bin\Debug\LogisticRegression.exe
+D:\大行简道\试验\MachineLearningSuccinctly\LogisticRegression\bin\Debug\LogisticRegression.pdb
+D:\大行简道\试验\MachineLearningSuccinctly\LogisticRegression\obj\Debug\LogisticRegression.csprojResolveAssemblyReference.cache
+D:\大行简道\试验\MachineLearningSuccinctly\LogisticRegression\obj\Debug\LogisticRegression.exe
+D:\大行简道\试验\MachineLearningSuccinctly\LogisticRegression\obj\Debug\LogisticRegression.pdb

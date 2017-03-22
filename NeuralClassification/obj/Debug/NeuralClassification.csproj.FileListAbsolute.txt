@@ -1,0 +1,12 @@
+D:\MachineLearningSuccinctly\NeuralClassification\bin\Debug\NeuralClassification.exe.config
+D:\MachineLearningSuccinctly\NeuralClassification\bin\Debug\NeuralClassification.exe
+D:\MachineLearningSuccinctly\NeuralClassification\bin\Debug\NeuralClassification.pdb
+D:\MachineLearningSuccinctly\NeuralClassification\obj\Debug\NeuralClassification.csprojResolveAssemblyReference.cache
+D:\MachineLearningSuccinctly\NeuralClassification\obj\Debug\NeuralClassification.exe
+D:\MachineLearningSuccinctly\NeuralClassification\obj\Debug\NeuralClassification.pdb
+D:\大行简道\试验\MachineLearningSuccinctly\NeuralClassification\bin\Debug\NeuralClassification.exe.config
+D:\大行简道\试验\MachineLearningSuccinctly\NeuralClassification\obj\Debug\NeuralClassification.exe
+D:\大行简道\试验\MachineLearningSuccinctly\NeuralClassification\obj\Debug\NeuralClassification.pdb
+D:\大行简道\试验\MachineLearningSuccinctly\NeuralClassification\bin\Debug\NeuralClassification.exe
+D:\大行简道\试验\MachineLearningSuccinctly\NeuralClassification\bin\Debug\NeuralClassification.pdb
+D:\大行简道\试验\MachineLearningSuccinctly\NeuralClassification\obj\Debug\NeuralClassification.csprojResolveAssemblyReference.cache

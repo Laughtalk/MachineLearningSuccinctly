@@ -1,0 +1,15 @@
+D:\MachineLearningSuccinctly\RBFNetwork\bin\Debug\RBFNetwork.exe.config
+D:\MachineLearningSuccinctly\RBFNetwork\bin\Debug\RBFNetwork.exe
+D:\MachineLearningSuccinctly\RBFNetwork\bin\Debug\RBFNetwork.pdb
+D:\MachineLearningSuccinctly\RBFNetwork\obj\Debug\RBFNetwork.csprojResolveAssemblyReference.cache
+D:\MachineLearningSuccinctly\RBFNetwork\obj\Debug\RBFNetwork.exe
+D:\MachineLearningSuccinctly\RBFNetwork\obj\Debug\RBFNetwork.pdb
+D:\大行简道\试验\MachineLearningSuccinctly\RBFNetwork\bin\Debug\RBFNetwork.exe.config
+D:\大行简道\试验\MachineLearningSuccinctly\RBFNetwork\obj\Debug\RBFNetwork.exe
+D:\大行简道\试验\MachineLearningSuccinctly\RBFNetwork\obj\Debug\RBFNetwork.pdb
+D:\大行简道\试验\MachineLearningSuccinctly\RBFNetwork\bin\Debug\RBFNetwork.exe
+D:\大行简道\试验\MachineLearningSuccinctly\RBFNetwork\bin\Debug\RBFNetwork.pdb
+D:\大行简道\试验\MachineLearningSuccinctly\RBFNetwork\obj\Debug\RBFNetwork.csprojResolveAssemblyReference.cache
+F:\文件\工作\大行简道\试验\MachineLearningSuccinctly\RBFNetwork\bin\Debug\RBFNetwork.exe.config
+F:\文件\工作\大行简道\试验\MachineLearningSuccinctly\RBFNetwork\obj\Debug\RBFNetwork.exe
+F:\文件\工作\大行简道\试验\MachineLearningSuccinctly\RBFNetwork\obj\Debug\RBFNetwork.pdb

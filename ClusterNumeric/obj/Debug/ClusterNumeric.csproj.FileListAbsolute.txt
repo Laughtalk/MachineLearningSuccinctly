@@ -1,0 +1,12 @@
+D:\MachineLearningSuccinctly\ClusterNumeric\bin\Debug\ClusterNumeric.exe.config
+D:\MachineLearningSuccinctly\ClusterNumeric\bin\Debug\ClusterNumeric.exe
+D:\MachineLearningSuccinctly\ClusterNumeric\bin\Debug\ClusterNumeric.pdb
+D:\MachineLearningSuccinctly\ClusterNumeric\obj\Debug\ClusterNumeric.csprojResolveAssemblyReference.cache
+D:\MachineLearningSuccinctly\ClusterNumeric\obj\Debug\ClusterNumeric.exe
+D:\MachineLearningSuccinctly\ClusterNumeric\obj\Debug\ClusterNumeric.pdb
+D:\大行简道\试验\MachineLearningSuccinctly\ClusterNumeric\bin\Debug\ClusterNumeric.exe.config
+D:\大行简道\试验\MachineLearningSuccinctly\ClusterNumeric\bin\Debug\ClusterNumeric.exe
+D:\大行简道\试验\MachineLearningSuccinctly\ClusterNumeric\bin\Debug\ClusterNumeric.pdb
+D:\大行简道\试验\MachineLearningSuccinctly\ClusterNumeric\obj\Debug\ClusterNumeric.csprojResolveAssemblyReference.cache
+D:\大行简道\试验\MachineLearningSuccinctly\ClusterNumeric\obj\Debug\ClusterNumeric.exe
+D:\大行简道\试验\MachineLearningSuccinctly\ClusterNumeric\obj\Debug\ClusterNumeric.pdb

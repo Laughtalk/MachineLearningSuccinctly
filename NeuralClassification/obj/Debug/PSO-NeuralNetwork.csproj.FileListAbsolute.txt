@@ -1,0 +1,6 @@
+D:\大行简道\试验\MachineLearningSuccinctly\NeuralClassification\bin\Debug\NeuralClassification.exe.config
+D:\大行简道\试验\MachineLearningSuccinctly\NeuralClassification\bin\Debug\NeuralClassification.exe
+D:\大行简道\试验\MachineLearningSuccinctly\NeuralClassification\bin\Debug\NeuralClassification.pdb
+D:\大行简道\试验\MachineLearningSuccinctly\NeuralClassification\obj\Debug\PSO-NeuralNetwork.csprojResolveAssemblyReference.cache
+D:\大行简道\试验\MachineLearningSuccinctly\NeuralClassification\obj\Debug\NeuralClassification.exe
+D:\大行简道\试验\MachineLearningSuccinctly\NeuralClassification\obj\Debug\NeuralClassification.pdb
